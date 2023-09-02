@@ -1,0 +1,22 @@
+
+body {
+    background-color: rgb(8, 97, 192);
+    background-image: linear-gradient(rgb(8, 97, 192),rgb(67, 223, 155));
+  }
+  
+  h1 {
+    color: rgb(23, 0, 128);
+    margin-left: 20px;
+    font-style: italic;
+    font-weight: bold;
+  }
+  *{
+    font-style: oblique;
+
+  }  
+  #head{
+    color: rgb(29, 26, 109);
+  }
+  .p0{
+    text-indent: 4em;
+  }
